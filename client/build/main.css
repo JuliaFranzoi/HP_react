@@ -1,0 +1,34 @@
+
+*{
+  background-color: blue;
+}
+@font-face {
+  font-family: "harry";
+  src: url(/parry-hotter/ParryHotter.ttf);
+
+}
+
+h1{
+  font-family: harry;
+  font-size: 52px
+  border: 2px black solid;
+}
+h4 {
+  color: white;
+font-family: harry;
+font-size: 25px;
+padding-right: 50px;
+display: inline-block;
+border: 2px black solid;
+}
+img {
+  padding-right: 25px
+}
+
+p{
+  padding-left: 555px;
+    color: white;
+  font-family: harry;
+  font-size: 25px;
+
+}
